@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lakshy Pandey</h1>
+<h3 align="center">A passionate developer and AI enthusiast from India 🇮🇳</h3>
 
-<!--
-**Lakshy403/lakshy403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech CSE Core, 2nd Year, 4th Semester @ SRM Institute of Science and Technology  
+- 📈 Current CGPA: 8.61  
+- 📫 Reach me at: **lakshyp09@gmail.com**  
+- 🔗 GitHub: [https://github.com/Lakshy403](https://github.com/Lakshy403)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏅 Achievements
+- 🏆 Samsung Prism Qualifier (Top 800)
+- 🏆 Cleared Round 2 of CREATECH by L&T (4500+ teams)
+
+---
+
+### 📜 Certifications
+- ✅ Machine Learning Specialization (Coursera)
+- ✅ Data Science with Python
+- ✅ NPTEL Java Programming
+
+---
+
+### 💻 Projects
+- 🔍 VulnShield - Web Vulnerability Scanner
+- 🧠 Fake News Detection using BERT
+- 📊 AI-powered API Monitoring System
+
+---
+
+### 🛠️ Skills
+**Languages & Tools:**  
+Python, Java, SQL, MySQL, C, React.js, Node.js, HTML/CSS, Flask, Streamlit, Elasticsearch, Kibana, Dash, Tailwind CSS
+
+**AI & Data Science:**  
+BERT, Scikit-learn, NumPy, Pandas, Matplotlib, Selenium
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshy403&show_icons=true&theme=radical" alt="Lakshy's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshy403&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<a href="mailto:lakshyp09@gmail.com">📧 lakshyp09@gmail.com</a>  
+<a href="https://github.com/Lakshy403">💻 GitHub Profile</a>  
